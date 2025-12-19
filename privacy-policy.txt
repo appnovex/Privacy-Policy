@@ -1,0 +1,30 @@
+**Privacy Policy for CryptoDCA**
+**Developer:** Appnovex
+**Website:** [www.appnovex.com](http://www.appnovex.com)
+**Effective Date:** December 20, 2025
+
+CryptoDCA (“we,” “our,” or “the app”) respects your privacy. This Privacy Policy explains how we handle your information.
+
+**1. Data Collection**
+CryptoDCA does **not collect, store, or share any personal information** from users. This includes, but is not limited to:
+
+* Names, email addresses, phone numbers
+* Location data
+* Contacts or calendar information
+* Device information or identifiers
+* Usage data or analytics
+
+**2. Third-Party Services**
+This app does **not use any third-party services** that collect data. No advertising, analytics, or tracking frameworks are integrated.
+
+**3. Cookies and Tracking**
+The app does not use cookies, tracking pixels, or any tracking technologies.
+
+**4. Children’s Privacy**
+CryptoDCA does not knowingly collect information from children under 13. Since we do not collect any data, we comply with applicable children's privacy regulations.
+
+**5. Changes to This Privacy Policy**
+We may update this policy from time to time. Any changes will be posted on this page. Your continued use of the app indicates acceptance of the updated policy.
+
+**6. Contact Us**
+If you have any questions or concerns regarding this Privacy Policy, you can contact us at: [support@appnovex.com]
