@@ -1,0 +1,64 @@
+PRIVACY POLICY
+
+Novaguard (iOS) · Effective 20 September 2026
+
+This policy explains what data Novaguard (“the game”), published by AppNovex (Ejmin Keshishi, Yerevan, Armenia — “we”), collects and why. We collect only what the game needs to work. We do not sell data, show ads, or track you across apps or websites. The game contains no third-party advertising or analytics SDKs.
+
+1. DATA WE COLLECT
+
+- Guest account ID — a random identifier and random password created automatically when you first open the game. No email, phone number or real name is requested.
+  Purpose: To save your progress on our server and keep it after app updates.
+
+- Player name — a random “Guardian####” name or one you choose.
+  Purpose: Shown to other players in Rankings and Arena matches.
+
+- Gameplay data — progress, items, currencies, match results, scores, Arena rating.
+  Purpose: To run the game, rankings and fair competition.
+
+- Purchase history — product ID and Apple transaction ID of in-app purchases. We never receive your payment details; Apple processes all payments.
+  Purpose: To deliver purchased items and prevent fraud.
+
+- Performance data — frame rate, memory use, device model and iOS version at the end of a match.
+  Purpose: To keep the game running smoothly on all devices.
+
+- Player reports and blocks you submit about other players.
+  Purpose: To moderate offensive names and cheating, and to hide blocked players from you.
+
+- Hashed network address — a one-way hash of your IP address, kept for up to 2 days.
+  Purpose: To prevent spam sign-ups and abuse.
+
+2. STORAGE AND SERVICE PROVIDERS
+
+Game data is stored by our backend provider Supabase on servers in the European Union (Frankfurt, Germany), encrypted in transit (HTTPS). Your guest login is saved in your device’s Keychain (synced by iCloud Keychain if you have it enabled) so your progress survives updates and reinstalls. Apple processes in-app purchases under Apple’s own privacy policy.
+
+3. WHAT OTHER PLAYERS CAN SEE
+
+Only your player name, league, Arena rating/score and ranking position. There is no chat or messaging in the game. Other players never see your account ID, device or location.
+
+4. RETENTION
+
+Account data is kept while your account exists. Arena match records are deleted automatically after 30 days; hashed network addresses after 2 days; progress-recovery codes expire after 24 hours and are stored only as a one-way hash.
+
+5. YOUR CHOICES AND RIGHTS
+
+- Delete your account: Settings (gear icon) → Delete Account. This permanently deletes your account and all associated game data from our servers.
+
+- Block players or report offensive names/cheating with the (i) button next to any player name.
+
+- You may request access, correction or deletion of your data, or object to processing, by emailing us. Please include your Player ID (Settings → Contact Support fills it in automatically). Residents of the EU/EEA/UK may also contact their data-protection authority.
+
+Legal bases (GDPR): performance of our contract with you (providing the game) and our legitimate interests (security, fraud prevention, fair play).
+
+6. CHILDREN
+
+The game is not directed to children under 13 and we do not knowingly collect personal information from them. If you believe a child has provided us data, contact us and we will delete it.
+
+7. CHANGES
+
+We may update this policy; the effective date above will change and significant changes will be announced in the game.
+
+8. CONTACT
+
+AppNovex · support@appnovex.com · appnovex.com
+
+(c) 2026 AppNovex
