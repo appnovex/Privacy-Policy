@@ -1,0 +1,95 @@
+OATHBLOOM — PRIVACY POLICY
+
+Last updated: September 21, 2026
+Publisher: AppNovex (appnovex.com)
+Contact: support@appnovex.com
+
+
+1. SUMMARY
+
+Oathbloom does not require an account, and AppNovex does not collect or store your
+personal data on any server. Your game progress is saved only on your device.
+
+The game offers optional rewarded video ads provided by Google AdMob. Watching an ad is
+always your choice and never required to play. To serve and measure those ads, Google
+collects some data from your device, as described in section 2.
+
+
+2. ADVERTISING — GOOGLE ADMOB
+
+When you open a screen that offers a reward video, the Google Mobile Ads SDK may collect:
+
+  - Device identifiers: the Apple advertising identifier (IDFA) ONLY if you allow
+    tracking, plus identifier for vendors and ad identifiers.
+    Purpose: serving, limiting and measuring ads; fraud prevention.
+
+  - IP address and approximate (coarse) location derived from it.
+    Purpose: serving relevant ads; fraud prevention.
+
+  - Advertising data (ads shown, taps, completed views).
+    Purpose: ad delivery, frequency capping, measurement.
+
+  - Product interaction, crash and performance data.
+    Purpose: analytics and keeping ads working correctly.
+
+Google processes this data under its own policies:
+  - Google Privacy Policy: https://policies.google.com/privacy
+  - How Google uses information from apps that use its services:
+    https://policies.google.com/technologies/partner-sites
+  - Google's AdMob SDK data disclosure:
+    https://developers.google.com/admob/ios/privacy/data-disclosure
+
+
+3. YOUR CHOICES
+
+  - App Tracking Transparency: Oathbloom asks for tracking permission only when you first
+    tap a reward video. If you decline, ads are not personalised with your advertising
+    identifier and every reward works exactly the same. You can change this at any time in
+    iOS Settings > Privacy & Security > Tracking.
+
+  - Consent (EEA, UK and Switzerland): where required by law, Google's consent form is
+    shown before any ad is requested, and you can decline.
+
+  - All ads are optional. Oathbloom is fully playable without ever watching one.
+
+
+4. IN-APP PURCHASES
+
+In-app purchases are processed by Apple. We never receive your payment details. Apple
+provides anonymous transaction information needed to deliver and restore purchases.
+
+
+5. DATA STORED ON YOUR DEVICE
+
+Game progress and settings are saved locally on your device. You can erase them at any
+time in Settings > Delete My Game Data inside the game, or by deleting the app.
+
+
+6. SALE AND SHARING OF DATA
+
+AppNovex does not sell personal data. The advertising data described in section 2 is
+collected and used by Google as our advertising provider.
+
+
+7. DATA RETENTION AND DELETION
+
+AppNovex holds no personal data about you. Data collected by Google is retained under
+Google's policies linked above. To delete your game data, use Settings > Delete My Game
+Data or delete the app. For any privacy request, email support@appnovex.com.
+
+
+8. CHILDREN
+
+Oathbloom is not directed to children under 13, and we do not knowingly collect personal
+information from children under 13.
+
+
+9. CHANGES TO THIS POLICY
+
+If this policy changes, we will update this document and the date above, and update the
+App Store privacy details before the change ships.
+
+
+10. CONTACT
+
+Questions or privacy requests: support@appnovex.com
