@@ -2,7 +2,7 @@
 
 _Last updated: September 21, 2026_
 
-Patina is operated by **Ejmin Keshishi, trading as AppNovex** (appnovex.com), Yerevan, Republic of Armenia ("we", "us"). This policy explains what we collect and why. Contact: support@appnovex.com.
+Patina is operated by **AppNovex** (appnovex.com),. This policy explains what we collect and why. Contact: support@appnovex.com.
 
 ## What we collect
 - **Account data:** your Apple user identifier, and the name/email Apple shares if you allow it (you can use "Hide My Email").
