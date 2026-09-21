@@ -2,7 +2,7 @@
 
 _Version 1 — effective September 21, 2026_
 
-These Terms are an agreement between you and **Ejmin Keshishi, trading as AppNovex** (appnovex.com), Yerevan, Republic of Armenia ("Patina", "we", "us"). By creating an account or using the Patina app you agree to these Terms, the Community Rules and the Privacy Policy. If you do not agree, do not use Patina.
+These Terms are an agreement between you and **AppNovex** (appnovex.com). By creating an account or using the Patina app you agree to these Terms, the Community Rules and the Privacy Policy. If you do not agree, do not use Patina.
 
 ## 1. Eligibility
 You must be at least **18 years old** and able to enter a binding contract. You may hold only one account. We may refuse service to anyone.
