@@ -1,8 +1,8 @@
 PRIVACY POLICY
 
-Novaguard (iOS) · Effective 20 September 2026
+Novaguard (iOS) · Effective 22 September 2026
 
-This policy explains what data Novaguard (“the game”), published by AppNovex (Ejmin Keshishi, Yerevan, Armenia — “we”), collects and why. We collect only what the game needs to work. We do not sell data, show ads, or track you across apps or websites. The game contains no third-party advertising or analytics SDKs.
+This policy explains what data Novaguard (“the game”), published by AppNovex (Ejmin Keshishi, Yerevan, Armenia — “we”), collects and why. We collect only what the game needs to work. We do not sell your data and we do not track you across apps or websites (the game never asks for Apple’s tracking permission and never accesses the advertising identifier, IDFA). The game offers optional rewarded video ads provided by Google AdMob, described in section 3.
 
 1. DATA WE COLLECT
 
@@ -18,6 +18,9 @@ This policy explains what data Novaguard (“the game”), published by AppNovex
 - Purchase history — product ID and Apple transaction ID of in-app purchases. We never receive your payment details; Apple processes all payments.
   Purpose: To deliver purchased items and prevent fraud.
 
+- Rewarded ad records — when you choose to watch an ad, Google sends our server a signed confirmation containing a transaction ID, the ad unit, the reward placement and your guest account ID.
+  Purpose: To give you the reward you earned and prevent reward fraud.
+
 - Performance data — frame rate, memory use, device model and iOS version at the end of a match.
   Purpose: To keep the game running smoothly on all devices.
 
@@ -31,33 +34,41 @@ This policy explains what data Novaguard (“the game”), published by AppNovex
 
 Game data is stored by our backend provider Supabase on servers in the European Union (Frankfurt, Germany), encrypted in transit (HTTPS). Your guest login is saved in your device’s Keychain (synced by iCloud Keychain if you have it enabled) so your progress survives updates and reinstalls. Apple processes in-app purchases under Apple’s own privacy policy.
 
-3. WHAT OTHER PLAYERS CAN SEE
+3. ADVERTISING (GOOGLE ADMOB)
+
+Ads are only shown when you tap a “Watch ad” button (for example a free revive, double gold, bonus gems, a bonus chest or extra energy). There are no banner or forced ads.
+We request non-personalized ads only. To serve and measure ads and to prevent ad fraud, Google’s Mobile Ads SDK may collect device information such as the vendor identifier (IDFV), IP address and approximate location derived from it, device model, operating-system version, ad interactions, and crash and performance diagnostics. Google processes this data as described at https://policies.google.com/technologies/partner-sites and in Google’s Privacy Policy (https://policies.google.com/privacy).
+Users in the EU/EEA, UK and Switzerland are asked for consent through Google’s consent message before ads are requested, and users in applicable US states can opt out of the “sale” or “sharing” of personal information. You can change these choices at any time in Settings → Ad Privacy Choices (shown where required). If you never tap a “Watch ad” button, no ad is displayed.
+
+4. WHAT OTHER PLAYERS CAN SEE
 
 Only your player name, league, Arena rating/score and ranking position. There is no chat or messaging in the game. Other players never see your account ID, device or location.
 
-4. RETENTION
+5. RETENTION
 
-Account data is kept while your account exists. Arena match records are deleted automatically after 30 days; hashed network addresses after 2 days; progress-recovery codes expire after 24 hours and are stored only as a one-way hash.
+Account data is kept while your account exists. Arena match records are deleted automatically after 30 days; hashed network addresses after 2 days; progress-recovery codes expire after 24 hours and are stored only as a one-way hash. Rewarded ad records are deleted with your account.
 
-5. YOUR CHOICES AND RIGHTS
+6. YOUR CHOICES AND RIGHTS
 
 - Delete your account: Settings (gear icon) → Delete Account. This permanently deletes your account and all associated game data from our servers.
+
+- Ads are optional; you can change ad-consent choices in Settings → Ad Privacy Choices (where required by law).
 
 - Block players or report offensive names/cheating with the (i) button next to any player name.
 
 - You may request access, correction or deletion of your data, or object to processing, by emailing us. Please include your Player ID (Settings → Contact Support fills it in automatically). Residents of the EU/EEA/UK may also contact their data-protection authority.
 
-Legal bases (GDPR): performance of our contract with you (providing the game) and our legitimate interests (security, fraud prevention, fair play).
+Legal bases (GDPR): performance of our contract with you (providing the game), our legitimate interests (security, fraud prevention, fair play) and, for advertising, your consent.
 
-6. CHILDREN
+7. CHILDREN
 
 The game is not directed to children under 13 and we do not knowingly collect personal information from them. If you believe a child has provided us data, contact us and we will delete it.
 
-7. CHANGES
+8. CHANGES
 
 We may update this policy; the effective date above will change and significant changes will be announced in the game.
 
-8. CONTACT
+9. CONTACT
 
 AppNovex · support@appnovex.com · appnovex.com
 
