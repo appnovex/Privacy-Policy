@@ -1,0 +1,51 @@
+# ZeroEmpire Privacy Policy
+
+**AppNovex · Updated September 26, 2026**
+
+ZeroEmpire is a medieval strategy game developed by AppNovex and intended for adults aged 18 and over. Contact us at **support@appnovex.com** or visit **https://www.appnovex.com**.
+
+## Information used to run the game
+
+When you start playing, ZeroEmpire creates a guest account. We store an account identifier, a generated player name, your city, resources, army, progress, rankings and game actions. This information lets us save your progress, run online features and prevent cheating. Other players may see your public game profile, ranking, settlement information and predefined messages that you choose to send. ZeroEmpire does not offer free-text, voice or image chat.
+
+We also process service request logs, network addresses, errors and security records to operate and protect the game. If you contact support, we receive the contact details and information you choose to send. Please do not send passwords or payment-card details.
+
+Where in-app purchases are available, Apple processes payment. We receive transaction and product information needed to deliver purchases, handle refunds and prevent duplicate rewards. We do not receive your payment-card details.
+
+## Optional rewarded advertisements
+
+Where available, you can choose to watch an advertisement for a clearly stated in-game reward. Ads are provided by **Google AdMob**. We request non-personalized advertisements, disable Google's publisher first-party ID, and do not request access to Apple's advertising identifier through App Tracking Transparency. Non-personalized advertising still involves data processing.
+
+Google's SDK may process IP addresses (including approximate location inferred from them), app- or device-related identifiers, information about advertisements and interactions, and crash or performance information for ad delivery, measurement, fraud prevention and diagnostics. Google's privacy information is available at **https://policies.google.com/privacy** and **https://policies.google.com/technologies/partner-sites**.
+
+Before requesting ads, the game uses Google's User Messaging Platform to obtain and apply regional privacy choices where required. When available, you can revisit them in **Settings → Ad privacy choices**. You can also choose not to watch rewarded advertisements. Advertising is not required to play the game.
+
+We ask you to confirm that you are 18 or older before requesting advertisements. We store that confirmation on your device, without collecting your date of birth. Reward verification sends Google a random, single-use ad-session reference; we do not send Google your email address or game-account identifier as reward-verification data. Google sends a signed completion notification to our backend, which checks it before crediting the reward.
+
+## Service providers and disclosures
+
+- **Supabase** provides authentication, database storage and backend functions. The game project uses a Frankfurt database region; provider operations and network services may involve processing in other locations.
+- **Apple** provides app distribution, purchases and related platform services.
+- **Google** provides optional advertising, consent forms and reward verification.
+
+We use service providers to operate the game and may disclose information when required by law, to address fraud or security incidents, or to protect rights. We do not sell your game account data. Advertising providers process data under their own published policies and applicable privacy choices.
+
+## Retention and deletion
+
+We retain account and game information while needed to provide the service. You can request account deletion in **Settings → Account → Delete account** and confirm the action. Account deletion removes the active account and associated game progress; it is permanent. Certain transaction, security and shared battle records may be retained with account references removed where needed for accounting, fraud prevention, legal obligations or other players' records. Service logs and backups follow the applicable retention schedules and may not be erased immediately.
+
+If you cannot use the in-game deletion control, contact **support@appnovex.com**. We may need information sufficient to establish that the account is yours. Guest accounts are tied to their sign-in credentials; uninstalling the app does not itself send an account-deletion request.
+
+## Your choices and rights
+
+Depending on your location, you may have rights to access, correct, export or delete personal information, object to certain uses, or withdraw consent. Contact **support@appnovex.com** to make a request. Where consent is the basis for advertising processing, you can change available choices in the game. Withdrawing consent does not affect processing that already occurred lawfully.
+
+We use account and game information to provide the service you request, and security and diagnostic information to maintain and protect it. Processing may also be necessary for legal obligations. Applicable consent requirements are handled separately for advertising.
+
+## Adults-only audience
+
+ZeroEmpire is intended for people aged 18 or over and is not directed at children. If you believe a child has provided personal information through the game, contact **support@appnovex.com** so we can investigate and take appropriate action.
+
+## Changes and contact
+
+We may update this policy as the game changes. The date above identifies the current version. Material changes will be communicated where required. Questions or privacy requests: **support@appnovex.com**.
